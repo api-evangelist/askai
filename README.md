@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GPTfy is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://askai.free/
+GPTfy is an emerging AI-powered platform that offers advanced language model services, including chat, content generation, and specialized AI assistants. The company focuses on providing customizable AI solutions for businesses and developers, emphasizing ease of integration, scalability, and robust performance. While still in early stages, GPTfy aims to differentiate itself through a user-friendly API, transparent pricing, and strong data privacy practices, positioning itself within the competitive generative AI market.
+
+**Areas:** Company · Artificial Intelligence · Language-Model · Platform
+
+## GPTfy on APIs.io
+
+Everything profiled for GPTfy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/askai/](https://apis.io/providers/askai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [AskAI API](https://apis.io/apis/askai/askai-api-2/) — API for GPTfy's AI services, offering chat and content generation endpoints.
+- [GPTfy GPTfy API](https://apis.io/apis/askai/askai-gptfy-api-api/) — The GPTfy API API from GPTfy — 1 operation(s) for gptfy api.
+- [GPTfy Chat Completions API](https://apis.io/apis/askai/askai-chat-completions-api/) — The Chat Completions API from GPTfy — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [GetV1V1IdResponse](https://apis.io/schemas/askai/askai-get-v1-v1-id-response/)
+- [PostV1ChatCompletionsRequest](https://apis.io/schemas/askai/askai-post-v1-chat-completions-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Askai Context](https://apis.io/jsonld/askai/askai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GPTfy API Rules](https://apis.io/rules/askai/askai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Askai Domain Security](https://apis.io/security/askai/askai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Askai Plans Pricing](https://apis.io/plans/askai/askai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://askai.free/)
+- [Documentation](https://askai.free/ja/guides/translation)
+- [Getting started](https://askai.free/faq/getting-started)
+- [Pricing](https://askai.free/pricing)
+- [Blog](https://askai.free/blog)
+- [Terms of service](https://askai.free/terms-of-service)
+- [Privacy policy](https://askai.free/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 34.7** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 20.1 |
+| Contract governance | 35.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 76.3 |
+
+**Agent readiness 31.7** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/askai/](https://apis.io/providers/askai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GPTfy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/askai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
